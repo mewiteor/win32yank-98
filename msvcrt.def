@@ -1,0 +1,6 @@
+LIBRARY
+EXPORTS
+    __getmainargs
+    strcmp
+    memmove
+    memcpy
